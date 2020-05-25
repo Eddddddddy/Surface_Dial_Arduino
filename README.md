@@ -16,3 +16,8 @@ stl model ：3D打印模型
 Project Dial attiny v2 github.zip ：pcb文件
 
 点个Star！谢谢！
+
+
+
+
+在这里可以查看视频介绍：https://www.bilibili.com/video/BV17K411W78w/
