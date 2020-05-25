@@ -1,0 +1,51 @@
+Ideas & code credits:
+
+"Simone Chifari" <simone (-at-) emulab (-dot-) it>
+* USBasp frequency selection
+* Auto detect MCU
+* Fuse selector
+* AVRDUDE version shown in window title
+* New AVRDUDE conf parse code (no longer implemented)
+* Buttons to separately write/read/verify the flash/EEPROM
+* Fixing USBasp frequency failing to load from preset because some countries use something other than a '.' for the decimal separator
+
+"Uwe Tanger" <u.tanger (-at-) arcor (-dot-) de>
+* Specifying preset to load via command line
+* Remove popup for saving and deleting presets (no longer implemented)
+* Console in main window instead of separate window
+* New AVRDUDE conf parse code (no longer implemented)
+
+"neptune"
+* Sticky presets (no longer implemented)
+
+"Dean Canafranca" <deanc338 (-at-) yahoo (-dot-) com (-dot-) sg>
+* Console in main window instead of separate window
+* Buttons to separately write/read the fuses/locks
+
+"Brutus"
+* Fixing incorrect fuse bits for ATmega328(P)
+
+"adnbr" <https://github.com/adnbr>
+* Automatically prepend 0x to fuse hex values
+
+"gl.tter"
+* Confirm preset deletion (no longer implemented)
+* Persist window location across sessions
+
+"buttim" <https://github.com/buttim>
+* Load up selected MCU and fuses when opening the fuse calc web page
+
+"Pardeep" <https://github.com/pardeepk21>
+* Fixing flash and EEPROM usage bars not working if there is a space in the file path
+
+"Jon Raymond" <https://github.com/DirtyEngineer>
+* Options to hide programmers and MCUs from their drop-down menus
+
+"Bercik" <ro_beri (-at-) gazeta (-dot-) pl>
+* Polish translation
+
+"radiolee" <https://github.com/radiolee>
+* Simplified Chinese translation
+
+"Alain DÖRING" <adoring (-at-) club-internet (-dot-) fr>
+* French translation
