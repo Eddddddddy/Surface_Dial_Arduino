@@ -13,7 +13,7 @@ tools ：编程器上位机软件
 
 stl model ：3D打印模型
 
-Project Dial attiny v2 github.zip ：pcb文件
+PCBDoc ：pcb文件
 
 【点个Star！】谢谢！
 
