@@ -24,7 +24,7 @@ PCBDoc ：pcb文件
 
 |                              | Pro                                  | Lite                              |
 | ---------------------------- | ------------------------------------ | --------------------------------- |
-| **O&M**                      | @Eddddddddy, @leostudiooo            | @Eddddddddy, @leostudiooo         |
+| **O&M**                      | @Eddddddddy            | @Eddddddddy, @leostudiooo         |
 | **Basic Functions**          | Y                                    | Y                                 |
 | **Cost**                     | Higher                               | Lower                             |
 | **Vibration(Taptic Engine)** | Y                                    | N                                 |
@@ -32,4 +32,3 @@ PCBDoc ：pcb文件
 | **Arduino File**             | /src/Surface_Dial_attiny.ino         | /src/Surface_Dial_attiny_Lite.ino |
 | **PCB File**                 | /PCBDoc/Proje…hub.zip                | Not Finished yet                  |
 | **Fuse Reset**               | Needed                               | Unnecessary                       |
-
