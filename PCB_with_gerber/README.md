@@ -1,28 +1,6 @@
-# Surface_Dial_Arduino
+# 关于版本选择和焊接 Version Choice & Soldering
 
-Use attiny85 to achieve surface dial function
-
-将这个添加到你的Arduino IDE开发板中：http://digistump.com/package_digistump_index.json
-
-/bom.xlsx ：元器件清单
-
-/lib ：arduino库
-
-/src ：arduino代码（包含融丝恢复器代码）
-
-/tools ：编程器上位机软件
-
-/stl model ：3D打印模型
-
-/PCB_with_gerber ：pcb文件
-
-立创EDA开源文件在[这里](https://oshwhub.com/Lingling0408/project-dial-pcb)
-
-【点个Star！】谢谢！
-
-在[这里](https://www.bilibili.com/video/BV17K411W78w/)可以查看视频介绍
-
-------
+## 版本选择 Version Chioce
 
 |                              | Pro                                  | Lite                              |
 | ---------------------------- | ------------------------------------ | --------------------------------- |
@@ -35,16 +13,18 @@ Use attiny85 to achieve surface dial function
 | **PCB File** _(Now All-in-One)_                 | /PCB_with_gerber/Pro | /PCB_with_gerber/Lite |
 | **Fuse Reset**               | Needed                               | Unnecessary                       |
 
-------
+## PCB
 
-你需要做什么？
+你可以选择原版Pro或Lite，也可以尝试新出来的二合一版本。
+You can choose the original Pro or Lite, or the 2 in 1 ver.
 
-- 想好购买的元器件是Pro还是Lite *（虽然后期也可以升级）*
+## 焊接 Soldering (for 2 in 1 ver.)
 
-- 在你信任的地方购买所需元器件
+如果你选择二合一版本，那么你有升级的机会。
+If you choose the 2 in 1(AIO) version, you have a chance to upgrade to Pro.
 
-- 焊接（见/PCB_with_Gerber/README.md)
+- 如果你选择Pro，请连接板子背面标注SW Pro的两个焊盘。
+If you choose Pro, plz connect the two solders with "SW Pro" on the bottom.
 
-- 刷入程序
-
-- 开始你的Dial之旅
+- 如果你选择Lite，请连接板子正面标注SW Lite的两个焊盘。
+If you choose Lite, plz connect the two solders with "SW Lite" on the top.
