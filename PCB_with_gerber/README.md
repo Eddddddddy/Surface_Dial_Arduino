@@ -1,3 +1,5 @@
+# 二合一版本慎用，未经测试！！！暂未完成
+
 # 关于版本选择和焊接 Version Choice & Soldering
 
 ## 版本选择 Version Chioce
