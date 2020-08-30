@@ -1,8 +1,8 @@
-# 二合一版本慎用，未经测试！！！暂未完成
+# 二合一版本未经本人测试
 
 # 关于版本选择和焊接 Version Choice & Soldering
 
-## **！注意！暂时停用由@leostudiooo 维护的Pro, Lite和2in1版本！如有需要请一定使用/PCB_with_gerber/Pro/...attiny v2 github.zip！**
+## **！建议使用/PCB_with_gerber/Pro/...attiny v2 github.zip！**
 
 ## 版本选择 Version Chioce
 
