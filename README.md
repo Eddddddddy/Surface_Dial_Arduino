@@ -2,7 +2,7 @@
 
 Use attiny85 to achieve surface dial function
 
-## **！注意！暂时停用由@leostudiooo 维护的Pro, Lite和2in1版本！如有需要请一定使用/PCB_with_gerber/Pro/...attiny v2 github.zip！**
+## **！注意！建议使用/PCB_with_gerber/Pro/...attiny v2 github.zip！其他pcb工程（包含立创EDA的开源工程）未经本人测试，不做可靠性保证。**
 
 将这个添加到你的Arduino IDE开发板中：http://digistump.com/package_digistump_index.json
 
